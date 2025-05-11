@@ -1,5 +1,5 @@
 # CAUTION: This tool is not secure for real-world cryptography.
-# Xorcist-
+# Xorcist
 x86_64 assembly implementation for a simple XOR-based block cipher for encrypting/decrypting input strings from the Linux command line. Symmetric, stateless, and blazing fast.
 
 ## XOR-Cipher-x86_64
